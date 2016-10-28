@@ -1,3 +1,5 @@
+# Example make file to build and compile an executable program
+
 CC=gcc
 CFLAGS=-Wall -I.
 
