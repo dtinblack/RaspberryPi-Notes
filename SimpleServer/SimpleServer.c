@@ -66,7 +66,7 @@ int main(void)
     printf("%s \n", buffer);
 
     write(new_socket, "HTTP/1.1 200 OK\n", 16);
-    write(new_socket, "Content-length: 46\n", 19);
+    write(new_socket, "Content-length: 55\n", 19);
     write(new_socket, "Content-Type: text/html\n\n", 25);
     write(new_socket, "<html><body><H1>RPi Msg: Hello world</H1></body></html>", 55);
     
