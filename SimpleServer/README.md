@@ -6,10 +6,10 @@ Develop a simple sever written in the programming language [C](https://en.wikipe
 
 The simple server returns a message for every request a web browser makes.
 
-To connect via telenet ( on the server machine ):
+To connect via telnet ( on the server machine ):
 
 ```
-telent 127.0.0.1 5000
+telnet 127.0.0.1 5000
 ```
 
 ## Thanks
@@ -21,7 +21,7 @@ server.
 
 [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html) - helpful starting point for the software development approach taken with this example.
 
-[Beej's Guide to Network Programming Using Internet Sockets: Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html ) - detailed description of data structures, function calls with detailed examples.
+[Beej's Guide to Network Programming Using Internet Sockets: Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html ) - detailed description of data structures, function calls with software examples.
 
 
 ## Licence
