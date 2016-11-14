@@ -1,4 +1,4 @@
-# Ignore Mac DS_Store files
+# Ignore Mac DS_Store files ( added * for sub-folders )
 
 .DS_Store
 *.DS_Store
