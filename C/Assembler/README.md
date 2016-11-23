@@ -14,4 +14,4 @@ using the cross compiler for emdeded software development.
 
 ## Licence
 
-[See Licence](/LICENSE
+[See Licence](/LICENSE)
